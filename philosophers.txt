@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-John Locke
-David Hume
-Edmund
-=======
-John Locke
-David Hume
-Edmund
->>>>>>> 0c8a140320000645ebb57b05ba11c74ce7305e4c
