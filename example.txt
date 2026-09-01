@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hello, World!
 This is an example file.
+=======
+Hello, World!
+This is an example file.
+>>>>>>> 0c8a140320000645ebb57b05ba11c74ce7305e4c
